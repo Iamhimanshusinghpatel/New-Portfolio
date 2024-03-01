@@ -179,8 +179,8 @@ a:hover{
 	z-index:999;
 }
 #header .logo{
-	float:left;
-	padding-top:17px;
+/* 	float:left; */
+	padding-top:20%;
 }
 #header .navbar {
 	float:right;
