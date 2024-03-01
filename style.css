@@ -180,7 +180,8 @@ a:hover{
 }
 #header .logo{
 /* 	float:left; */
-	padding-top:20%;
+	margin-bottom: 20%;
+/* 	padding-top:20%; */
 }
 #header .navbar {
 	float:right;
